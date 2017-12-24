@@ -3,7 +3,7 @@
 
 
 * print
-* # 注释
+* 注释
 * 数学运算 +、-、*、/、%、**、<、>、<=、>=
 * 变量
 * 格式化字符串
@@ -25,3 +25,40 @@
 	* github.com
 	* launchpad.net
 	* koders.com
+
+
+## 关键字
+
+[python关键字详解](https://www.cnblogs.com/xueweihan/p/4518022.html)
+
+* and
+* del
+* from
+* not
+* while
+* as
+* elif
+* global
+* or
+* with
+* assert
+* else
+* if
+* pass
+* yield
+* break
+* except
+* import
+* print
+* class
+* exec
+* in
+* raise
+* continue
+* finally
+* is
+* return
+* def
+* for
+* lambda
+* try
